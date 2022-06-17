@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "OAuth2._0": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:5005",
+      "launchUrl": "home/secret",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
